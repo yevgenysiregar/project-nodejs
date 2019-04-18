@@ -1,0 +1,24 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "Project Node.js to understand Node.js and npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevgenysiregar/project-nodejs.git"
+  },
+  "keywords": [
+    "project",
+    "Node.js",
+    "npm"
+  ],
+  "author": "Yevgeny Omar Siregar <siregar.yevgeny@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yevgenysiregar/project-nodejs/issues"
+  },
+  "homepage": "https://github.com/yevgenysiregar/project-nodejs#readme"
+}
